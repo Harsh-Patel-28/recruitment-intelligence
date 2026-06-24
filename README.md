@@ -94,4 +94,4 @@ Just open `frontend/index.html` in your browser (server must be running on `loca
 
 ## 👤 Author
 
-Built by Patel Harshkumar — B.Tech CSE (AIML), Parul Univercity
+Built by Patel Harshkumar — B.Tech CSE (AIML), Parul University
